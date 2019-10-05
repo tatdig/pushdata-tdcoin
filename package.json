@@ -1,5 +1,5 @@
 {
-  "name": "pushdata-bitcoin",
+  "name": "pushdata-tdcoin",
   "version": "1.0.1",
   "description": "encode/decode value as bitcoin OP_PUSHDATA integer",
   "keywords": [
@@ -16,9 +16,9 @@
     "bitcoinjs-lib",
     "bitcoin"
   ],
-  "homepage": "https://github.com/bitcoinjs/pushdata-bitcoin",
+  "homepage": "https://github.com/tatdig/pushdata-tdcoin",
   "bugs": {
-    "url": "https://github.com/bitcoinjs/pushdata-bitcoin/issues"
+    "url": "https://github.com/tatdig/pushdata-tdcoin/issues"
   },
   "license": "MIT",
   "author": "Daniel Cousens",
@@ -28,7 +28,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/pushdata-bitcoin.git"
+    "url": "https://github.com/tatdig/pushdata-tdcoin.git"
   },
   "scripts": {
     "prepublish": "npm run test",
