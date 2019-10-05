@@ -1,7 +1,7 @@
 {
   "name": "pushdata-tdcoin",
   "version": "1.0.1",
-  "description": "encode/decode value as bitcoin OP_PUSHDATA integer",
+  "description": "encode/decode value as tdcoin OP_PUSHDATA integer",
   "keywords": [
     "push",
     "encode",
@@ -25,14 +25,14 @@
   "files": [
     "index.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tatdig/tdcoin-ops.git"
-  },
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tatdig/pushdata-tdcoin.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatdig/tdcoin-ops.git"
   },
   "scripts": {
     "prepublish": "npm run test",
