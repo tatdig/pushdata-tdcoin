@@ -25,6 +25,10 @@
   "files": [
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatdig/tdcoin-ops.git"
+  },
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -43,6 +47,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoin-ops": "^1.3.0"
+    "tdcoin-ops": "^1.3.0"
   }
 }
