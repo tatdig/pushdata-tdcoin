@@ -47,6 +47,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "tdcoin-ops": "^1.4.1"
+    "tdcoin-ops": "git+https://github.com/tatdig/pushdata-tdcoin.git"
   }
 }
