@@ -1,4 +1,4 @@
-var OPS = require('bitcoin-ops')
+var OPS = require('tdcoin-ops')
 
 function encodingLength (i) {
   return i < OPS.OP_PUSHDATA1 ? 1
